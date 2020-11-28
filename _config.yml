@@ -75,16 +75,16 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-TQSW5H0YMG"
 
 
 # Site Author
 author:
-  name             : "Flavia Sancier-Barbosa"
+  name             : "Flavia Sancier-Barbosa, Ph.D."
   avatar           : "RS60568_CC-staff-349-web.jpg"
   bio              : "Assistant Professor of Mathematics (Statistics) at Colorado College"
   location         : "Colorado Springs, CO"
-  employer         : "https://www.coloradocollege.edu/"
+  employer         : "[Colorado College](https://www.coloradocollege.edu/)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oQFnhDIAAAAJ&hl=en"
   email            : "fsancierbarbosa@coloradocollege.edu"
