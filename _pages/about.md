@@ -15,9 +15,3 @@ I received a Master's (2006) and Ph.D. (2011) in Mathematics from [Southern Illi
 My research interests are in applied statistics, data science, probability, stochastic processes, mathematical finance, games, and interdisciplinary collaborations. 
 
 I am a 2012-2013 [Project NExT](https://www.maa.org/programs-and-communities/professional-development/project-next) Fellow (silver dot).
-
-#A data-driven personal website
-#======
-
-#How to edit your site's GitHub repository
-#------
